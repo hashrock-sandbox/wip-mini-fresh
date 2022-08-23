@@ -9,4 +9,3 @@ await esbuild.build({
   format: "esm",
 });
 esbuild.stop();
-
